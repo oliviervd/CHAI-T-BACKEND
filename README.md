@@ -1,6 +1,6 @@
 # CHAI-T-Backend-Aggregator
 
-Node module and CLI-application to import, parse, and synchronize thesauri from Design Museum Gent, VAI, and MoMU as part of the CHAI-T project.
+Node module and CLI-application to import, parse, and synchronize thesauri from Design Museum Gent, VAI, and MoMU as part of the CHAI-T project. This data is stored in a supabase database. The CHAI-T-API service, exposes this aggregated data in a single RESTFul service. 
 
 ## Prerequisites
 
